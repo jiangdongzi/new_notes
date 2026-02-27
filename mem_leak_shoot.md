@@ -180,3 +180,7 @@ print_ubacktrace() // 打印调用堆栈<br />
 </tr>
 </tbody>
 </table>
+
+## 更方便的方式
+1. curl 127.0.0.1:19500/hotspots/heap
+2. https://dreampuf.github.io/GraphvizOnline/  把输出粘到这里就可以渲染出来
